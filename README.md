@@ -3,30 +3,33 @@ Recursos sobre Python y Geo
 
 ## Geopython
 
-http://geoexamples.com/introduccion-python-geoespacial/
+Python : el lenguaje que los geomáticos deberían priorizar http://www.geofumadas.com/python-lenguaje-los-geomaticos-deberian-aprender/
 
-https://github.com/rveciana/introduccion-python-geoespacial
+Sobre Python, módulos espaciales, programas SIG y controversias http://geotux.tuxfamily.org/index.php/es/component/k2/item/318-sobre-python-modulos-espaciales-programas-sig-y-controversias
 
-Geotalleres http://geotalleres.github.io/geotalleres/geopython/index.html
+Introducción a Python para usos geoespaciales. Roger Veciana i Rovira. Jornadas SIG Libre Girona 2014 http://geoexamples.com/introduccion-python-geoespacial/
 
-https://www.gislounge.com/use-python-gis/
+- Repo github con ejemplos del taller https://github.com/rveciana/introduccion-python-geoespacial
 
-https://www.linkedin.com/pulse/geoprocesamiento-comparaci%C3%B3n-entre-r-y-python-antonio-pantoja-c 
+Geoprocessing with Python using Open Source GIS (2009) https://www.gis.usu.edu/~chrisg/python/2009/
 
-http://www.geofumadas.com/python-lenguaje-los-geomaticos-deberian-aprender/
+Geotalleres. Geoprocesamiento con Python. El presente taller da una visión sobre cómo realizar geoprocesamiento en Python con el uso de Fiona, Shapely y Rasterio. http://geotalleres.github.io/geotalleres/geopython/index.html
 
-https://mappinggis.com/?s=python
+Geoprocesamiento: comparación entre R y Python. Publicado el 21 de julio de 2017.  Antonio Pantoja C. https://www.linkedin.com/pulse/geoprocesamiento-comparaci%C3%B3n-entre-r-y-python-antonio-pantoja-c 
 
-http://carsonfarmer.com/2013/07/essential-python-geo-libraries/
+## Librerías
 
-http://geotux.tuxfamily.org/index.php/es/component/k2/item/330-modulos-python-con-finalidad-espacial-que-por-que-para-que-y-como
+Essential Python Geospatial Libraries (2013) http://carsonfarmer.com/2013/07/essential-python-geo-libraries/
 
-Charla de Jorge y Rafa en Pycon de Valencia http://spatialgalaxy.net/2014/10/18/pyqgis-resources/
+Los módulos Python con finalidad espacial: ¿qué, por qué, para qué y cómo? (203) http://geotux.tuxfamily.org/index.php/es/component/k2/item/330-modulos-python-con-finalidad-espacial-que-por-que-para-que-y-como
+
+Charla de Jorge y Rafa en Pycon de Valencia 
 
 Curso Geoinuiqetos madrid http://medialab-prado.es/article/programacion-gis-iii 
 
-https://www.r-bloggers.com/introductory-data-analysis-with-python/amp/
+## Jupyter notebook
 
+## Libros
 
 ## Configurar IDEs
 
@@ -35,6 +38,8 @@ https://mappinggis.com/2015/05/configurar-pycharm-para-usarlo-con-qgis/
 http://armillary-geomatica.blogspot.com.es/2016/10/configuracion-de-una-ide-para-trabajar.html?m=1
 
 ## PyQGIS
+
+http://spatialgalaxy.net/2014/10/18/pyqgis-resources/
 
 http://www.cursosgis.com/como-crear-nuestro-propio-plugin-para-qgis
 
