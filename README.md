@@ -29,6 +29,12 @@ Curso Geoinuiqetos madrid http://medialab-prado.es/article/programacion-gis-iii
 
 ## Jupyter notebook
 
+Obscure PSA of the day: Use Conda to correctly install Python GDAL on your Mac https://hackernoon.com/install-python-gdal-using-conda-on-mac-8f320ca36d90
+
+Python Jupyter for GIS  https://github.com/RobBlackwell/python-jupyter-for-gis
+
+Introduction to GIS in Python https://github.com/jonathf/gis-course
+
 ## Libros
 
 ## Configurar IDEs
