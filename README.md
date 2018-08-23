@@ -1,7 +1,11 @@
-# Geopython
+# GeoPython
 Recursos sobre Python y Geo
 
-## Geopython
+## Ejemplos
+
+Notebook para Jupyter con ejemplo de uso de la librería de geocodificación Geocoder
+
+## Documentos
 
 Python : el lenguaje que los geomáticos deberían priorizar http://www.geofumadas.com/python-lenguaje-los-geomaticos-deberian-aprender/
 
