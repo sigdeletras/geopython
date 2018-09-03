@@ -55,7 +55,9 @@ http://www.cursosgis.com/como-crear-nuestro-propio-plugin-para-qgis
 
 https://anitagraser.com/projects/pyqgis-101-introduction-to-qgis-python-programming-for-non-programmers/
 
-Charla Olaya Madrid 2018
+Curso programación QGIS 3 con Python Victor Olaya Madrid 2018  https://github.com/volaya/curso-qgis-python https://www.youtube.com/watch?v=vZ08dYlM-7U 
+
+Curso "Introducción al Desarrollo de Plugins para QGIS 3 con Python" Mathias khun  https://www.youtube.com/watch?v=QeT4iij4Jbo&list=PLVPATWZyLENyVjo3F-h3ZrE2uTHAl2EHL
 
 Pirelly http://slides.com/luigipirelli/developqgisplugins-nodebo2017#/17
 
