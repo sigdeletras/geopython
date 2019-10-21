@@ -1,5 +1,8 @@
 # GeoPython
 Recursos sobre Python y Geo
+/GEOPYTHON.pdf)
+## Charlas
+- **Charla GeoPython** Grupo Python Cordoba (21/10). [Slides](https://docs.google.com/presentation/d/1JUmYrmZr7c0wTTbO6aOoEsi_r4LFWLahS0D-tnNV1I8/edit?usp=sharing] y [PDF](/pythoncordoba2019/GEOPYTHON.pdf)
 
 
 ## Documentos
